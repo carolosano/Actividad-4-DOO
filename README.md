@@ -1,8 +1,8 @@
 # Actividad-4-DOO
 
 # Biblioteca Municipal "Luz y Saber" - Diseño del Sistema
- . Carolina
- . Materia: Diseño Orientado a Objetos
+### Carolina
+### Materia: Diseño Orientado a Objetos
  . Carrera: Tec. en Programación de Sistemas
  . Profesor: Lic. Matias Velasquez
  . Año:2024
