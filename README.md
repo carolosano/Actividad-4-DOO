@@ -1,15 +1,14 @@
 # Actividad-4-DOO
 
 # Biblioteca Municipal "Luz y Saber" - Diseño del Sistema
-### Alumna: Carolina Losano
-### Materia: Diseño Orientado a Objetos
-### Carrera: Tec. en Programación de Sistemas
-### Profesor: Lic. Matias Velasquez
-### Año:2024
+#### Alumna: Carolina Losano
+#### Materia: Diseño Orientado a Objetos
+#### Carrera: Tec. en Programación de Sistemas
+#### Profesor: Lic. Matias Velasquez
+#### Año:2024
 
 # Introducción
-#### Diagramas y Diseños
-#### Pescripción: Diseño e implementación un sistema para la administración de ventas de la biblioteca.
+#### Descripción: Diseño e implementación un sistema para la administración de ventas de la biblioteca.
 
 Requisitos iniciales: 
  
