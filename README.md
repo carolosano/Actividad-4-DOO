@@ -26,6 +26,8 @@ que se inscribieron a la membresía.
 
 # Diagramas y Diseño
 
+[Contribution guidelines for this project](https://drive.google.com/file/d/1LPMI9sZPYnIKIA-5TDetELqwtXhNnR7x/view?usp=sharing)
+
 1. Tarjetas CRC: https://drive.google.com/file/d/1BltovaGi0h-XKTtfBnmk2_Gi3XEgR3lM/view?usp=sharing
 2. Diagramas de Casos de Uso: https://drive.google.com/file/d/1h2w5xiEerCPlO9dRFyWn0dyLS8FGy1rC/view?usp=sharing
 3. Escenarios de casos de uso:
