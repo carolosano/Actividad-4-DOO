@@ -1,5 +1,3 @@
-# Actividad-4-DOO
-
 # Biblioteca Municipal "Luz y Saber" - Diseño del Sistema
 #### Alumna: Carolina Losano
 #### Materia: Diseño Orientado a Objetos
@@ -10,7 +8,7 @@
 # Introducción
 #### Descripción: Diseño e implementación un sistema para la administración de ventas de la biblioteca.
 
-Requisitos iniciales: 
+Objetivos iniciales. 
  
 1. Creación de una página Web. 
 2. Creación de un sistema búsqueda y de compra de artículos de la biblioteca virtual de la 
@@ -24,12 +22,16 @@ propia membresía.
 5. Una base de socios que le permita al personal acceder a la información de los usuarios 
 que se inscribieron a la membresía.
 
+Propuesta: creación de distintos diagramas de UML y Matriz CLAE para esquematizar el diseño del sistema y llevar a cabo los objetivos iniciales planteados.
+
 # Diagramas y Diseño
 
-[Contribution guidelines for this project](https://drive.google.com/file/d/1LPMI9sZPYnIKIA-5TDetELqwtXhNnR7x/view?usp=sharing)
+1.[Diagrama de actividades](https://drive.google.com/file/d/1KpBGwb6JC-tzQY17Ot1TiSe5IuL5kGO-/view?usp=sharing)
+2.[Diagrama de clases](https://drive.google.com/file/d/1bdofa5MjSa3kmJbXehoONh9wQB6btZIq/view?usp=sharing)
+3.[Diagrama de secuencia](https://drive.google.com/file/d/1eccnjpiPON1zxekr0KUPEsU_XFUwxgV4/view?usp=sharing)
+4.[Escenario de casos de uso 1 y 2](https://drive.google.com/file/d/1EA-FvgvsyDE55AcXI4o_ALMLKBgNHWI8/view?usp=sharing) y [Escenario de casos de uso 3](https://drive.google.com/file/d/1tTScZ6sea_0kp7CqB9RBbB6paI9yGIU7/view?usp=sharing)
+5.[Diagrama de casos de uso](https://drive.google.com/file/d/1XAEuwCPRsK-1P2IRf_PZ5XKKIqj4pnHk/view?usp=sharing)
+6.[Tarjetas CRC](https://drive.google.com/file/d/1yawSInERdE35fQeuam3HxY_GwBMY9ZkP/view?usp=sharing)
+7.[Matriz CLAE](https://drive.google.com/file/d/1LPMI9sZPYnIKIA-5TDetELqwtXhNnR7x/view?usp=sharing)
 
-1. Tarjetas CRC: https://drive.google.com/file/d/1BltovaGi0h-XKTtfBnmk2_Gi3XEgR3lM/view?usp=sharing
-2. Diagramas de Casos de Uso: https://drive.google.com/file/d/1h2w5xiEerCPlO9dRFyWn0dyLS8FGy1rC/view?usp=sharing
-3. Escenarios de casos de uso:
-   1 y 2: https://drive.google.com/file/d/1re3xjWb6mvwmEKjdBGmXD2xXljjYOEM7/view?usp=sharing
-   3: https://drive.google.com/file/d/1nxg01vuD7LF0wwFkBDMpgopIbbL78kx_/view?usp=sharing
+
