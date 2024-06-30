@@ -27,11 +27,13 @@ Propuesta: creación de distintos diagramas de UML y Matriz CLAE para esquematiz
 # Diagramas y Diseño
 
 1. [Diagrama de actividades](https://drive.google.com/file/d/1KpBGwb6JC-tzQY17Ot1TiSe5IuL5kGO-/view?usp=sharing)
-2. [Diagrama de clases](https://drive.google.com/file/d/1bdofa5MjSa3kmJbXehoONh9wQB6btZIq/view?usp=sharing)
+2. [Diagrama de clases](https://drive.google.com/file/d/1M5S9RN2o-2-akqJMQTbWFyGmojs_2dSW/view?usp=sharing)
 3. [Diagrama de secuencia](https://drive.google.com/file/d/1eccnjpiPON1zxekr0KUPEsU_XFUwxgV4/view?usp=sharing)
 4. [Escenario de casos de uso 1 y 2](https://drive.google.com/file/d/1EA-FvgvsyDE55AcXI4o_ALMLKBgNHWI8/view?usp=sharing) y [Escenario de casos de uso 3](https://drive.google.com/file/d/1tTScZ6sea_0kp7CqB9RBbB6paI9yGIU7/view?usp=sharing)
 5. [Diagrama de casos de uso](https://drive.google.com/file/d/1XAEuwCPRsK-1P2IRf_PZ5XKKIqj4pnHk/view?usp=sharing)
 6. [Tarjetas CRC](https://drive.google.com/file/d/1yawSInERdE35fQeuam3HxY_GwBMY9ZkP/view?usp=sharing)
 7. [Matriz CLAE](https://drive.google.com/file/d/1LPMI9sZPYnIKIA-5TDetELqwtXhNnR7x/view?usp=sharing)
 
+# Resolución teorica POO
 
+[Resolución teórica](https://drive.google.com/file/d/1Saos2l0xjWEg9cjvtb-w9YQi4M6NBBpb/view?usp=sharing)
